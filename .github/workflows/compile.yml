@@ -1,0 +1,3 @@
+- uses: xu-cheng/latex-action@v2
+  with:
+    root_file: source.tex
